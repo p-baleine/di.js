@@ -1,0 +1,20 @@
+{
+  "name": "di-lite",
+  "repo": "p-baleine/di.js",
+  "description": "A ultra light-weight dependency injection container in Javascript.",
+  "version": "0.3.3",
+  "keywords": [
+    "di",
+    "ioc",
+    "ioc container",
+    "dependency management",
+    "dependency injection",
+    "di container"
+  ],
+  "dependencies": {},
+  "development": {},
+  "main": "di-lite.js",
+  "scripts": [
+    "di-lite.js"
+  ]
+}
