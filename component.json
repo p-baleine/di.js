@@ -13,8 +13,8 @@
   ],
   "dependencies": {},
   "development": {},
+  "main": "di-lite.js",
   "scripts": [
-    "di-lite.js",
-    "index.js"
+    "di-lite.js"
   ]
 }
