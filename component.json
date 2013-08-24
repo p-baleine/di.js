@@ -1,5 +1,5 @@
 {
-  "name": "di-lite",
+  "name": "di.js",
   "repo": "p-baleine/di.js",
   "description": "A ultra light-weight dependency injection container in Javascript.",
   "version": "0.3.3",
@@ -13,8 +13,8 @@
   ],
   "dependencies": {},
   "development": {},
-  "main": "di-lite.js",
   "scripts": [
-    "di-lite.js"
+    "di-lite.js",
+    "index.js"
   ]
 }

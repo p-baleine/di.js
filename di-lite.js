@@ -11,7 +11,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-di = {
+var di = module.exports = {
     version: "0.3.3",
     createContext: function () {
         var ctx = {
